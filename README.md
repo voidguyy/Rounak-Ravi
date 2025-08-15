@@ -1,19 +1,36 @@
 Hi there, I'm Rounak Ravi 👋
-I'm a passionate developer focused on creating practical tools that solve real-world problems. I enjoy turning complex challenges into simple, elegant, and efficient solutions.
+<p align="center">
+<a href="https://www.google.com/search?q=https://github.com/RounakRavi">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DCivil%2BEngineer%2B(Structures)%3BProject%2BManagement%2BProfessional%3BData%2BScience%2BEnthusiast" alt="Typing SVG" />
+</a>
+</p>
 
-🔭 I’m currently working on developing web-based project management and automation tools.
+I'm a Civil Engineer with a specialization in structural engineering, passionate about leveraging technology to solve complex challenges in the construction and project management industry.
 
-🌱 I’m currently learning more about front-end frameworks and data visualization.
+🔭 I’m currently working on developing data-driven dashboards and automation tools for project controls.
 
-💬 Ask me about project management, web development, or process automation.
+🌱 I’m currently learning more about advanced data visualization and cloud-based project management platforms.
+
+💬 Ask me about structural engineering, project management, or data analysis.
 
 📊 My GitHub Stats
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=[your-github-username]&color=blueviolet" alt="Profile visitor counter"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/[your-github-username]">
+<img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight" alt="Rounak's GitHub stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[your-github-username]&layout=compact&theme=tokyonight" alt="Top Languages" />
+</a>
+</p>
+
 🛠️ My Tech Stack
-Project Management Tools: MS Project, Primavera P6, Jira
+Web Technologies: HTML, CSS
 
-Data & Automation: Microsoft Excel (Advanced), VBA
+Project Management: Primavera P6, MS Project, Jira
 
-Frontend: HTML, CSS
+Data & BI Tools: Microsoft Excel (Advanced), Power BI
 
 🚀 Featured Project
 🏗️ Construction Cost Estimation & Planning Tool
@@ -26,3 +43,11 @@ Tech Used: HTML, Tailwind CSS, JavaScript
 View Live Demo | View Code on GitHub
 
 🔗 Connect with Me
+<p align="center">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/rounakravi/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/[your-github-username]">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
